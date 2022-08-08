@@ -1,2 +1,2 @@
-# Sketchy-Extension-and-Search-List
-Basically this just blocks websites related to sketchy extensions and those sketchy search engines that are often clones of other sketchy search engines. Probably won't update this much, but it's something.
+# Keyword Spammer List
+Blocklist for use with hosts files to block sites known to utilize various methods such as keyword spamming to exploit flaws in search engine algorithms in order to spread malware, generate invalid traffic for ad revenue, or generally be a nuisance.
